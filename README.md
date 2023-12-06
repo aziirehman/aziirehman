@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on c# programming projects,hacking,findinding vulnerbities in codes,Data analytics and Data analysis
 - 🤔 I’m looking for help to increase my knowledge in cyber security and data analysis
 - 💬 Ask me about cyber security,data analytics
-- 📫 my github
+- 📫 https://github.com/aziirehman
 - 😄 Pronouns: He
 - ⚡ Fun fact: like travelling and explore new places
 
